@@ -1,0 +1,1 @@
+import{$a as a,Ob as s,ub as o,vb as i}from"./chunk-FHUMI6EY.js";import"./chunk-UUTQQLSI.js";var e=class n{static \u0275fac=function(t){return new(t||n)};static \u0275cmp=a({type:n,selectors:[["app-landing"]],decls:2,vars:0,template:function(t,r){t&1&&(o(0,"p"),s(1,"landing works!"),i())},encapsulation:2,changeDetection:0})};var f=[{path:"",component:e}];export{f as default};

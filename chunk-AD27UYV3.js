@@ -1,0 +1,1 @@
+import{$a as a,Ob as r,ub as s,vb as i}from"./chunk-FHUMI6EY.js";import"./chunk-UUTQQLSI.js";var t=class o{static \u0275fac=function(e){return new(e||o)};static \u0275cmp=a({type:o,selectors:[["app-car-list"]],decls:2,vars:0,template:function(e,p){e&1&&(s(0,"p"),r(1,"car-list works!"),i())},encapsulation:2})};var u=[{path:"",component:t}];export{u as default};
